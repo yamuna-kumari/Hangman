@@ -1,0 +1,121 @@
+hyperskill_project:
+  id: 265
+  ide_files: https://cogniterra.org/media/attachments/lesson/26668/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Fri, 30 Jun 2023 08:21:18 UTC"
+stages:
+- id: 1339
+  step: 20572
+  is_completed: true
+- id: 1340
+  step: 20573
+  is_completed: false
+- id: 1341
+  step: 20574
+  is_completed: false
+- id: 1342
+  step: 20575
+  is_completed: false
+- id: 1343
+  step: 20576
+  is_completed: false
+- id: 1344
+  step: 20577
+  is_completed: false
+- id: 1345
+  step: 20578
+  is_completed: false
+- id: 1346
+  step: 20579
+  is_completed: false
+topics:
+  0:
+  - title: World Wide Web
+    theory_id: 6633
+  - title: HyperText Transfer Protocol
+    theory_id: 6569
+  - title: Comments
+    theory_id: 8170
+  - title: JavaScript Code Style
+    theory_id: 9916
+  - title: Web development
+    theory_id: 13931
+  - title: Introduction to JavaScript
+    theory_id: 8016
+  - title: Overview of the basic program
+    theory_id: 8154
+  - title: Multi-line programs
+    theory_id: 8162
+  - title: Strings and numbers
+    theory_id: 8194
+  - title: Variables
+    theory_id: 8186
+  - title: Arithmetic operators
+    theory_id: 8372
+  - title: Functions
+    theory_id: 8388
+  - title: Boolean and Logical Operators
+    theory_id: 8471
+  - title: JSON
+    theory_id: 6854
+  - title: Introduction to Objects
+    theory_id: 8588
+  - title: Null and Undefined
+    theory_id: 8564
+  - title: Type Conversion
+    theory_id: 8380
+  - title: Comparison Operators
+    theory_id: 8580
+  - title: Conditional Operators
+    theory_id: 8889
+  1:
+  - title: Naming variables
+    theory_id: 8364
+  - title: Introduction to String
+    theory_id: 17747
+  - title: String Compare
+    theory_id: 18295
+  - title: Introduction to Regexp
+    theory_id: 17763
+  2:
+  - title: Defining functions
+    theory_id: 24012
+  - title: Anonymous Function
+    theory_id: 26924
+  - title: Arrow Functions
+    theory_id: 8455
+  - title: Introduction to Arrays
+    theory_id: 16141
+  - title: Random
+    theory_id: 18841
+  3:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: The big O notation
+    theory_id: 16699
+  - title: Pseudocode
+    theory_id: 15090
+  - title: Array creation
+    theory_id: 16356
+  - title: Array checking methods
+    theory_id: 21570
+  - title: Increment and Decrement
+    theory_id: 9102
+  - title: For Loops
+    theory_id: 9119
+  - title: String searching
+    theory_id: 17771
+  - title: Basic string methods
+    theory_id: 17755
+  - title: Template literals
+    theory_id: 8731
+  4:
+  - title: Array reducing
+    theory_id: 16628
+  5:
+  - title: While Loops
+    theory_id: 9128
+  6:
+  - title: JavaScript debugging
+    theory_id: 18977
