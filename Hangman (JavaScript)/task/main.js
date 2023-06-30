@@ -5,3 +5,11 @@ const input = require('sync-input')
 
 console.log(`H A N G M A N
 The game will be available soon.`)
+let guesTheWord = input("Guess the word:")
+if (guesTheWord === "python")
+    console.log("You survived!")
+
+else
+    console.log("You lost!")
+
+
